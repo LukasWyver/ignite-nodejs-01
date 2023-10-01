@@ -1,0 +1,17 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch --no-warnings src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
