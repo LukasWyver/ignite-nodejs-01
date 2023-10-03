@@ -1,1 +1,1 @@
-{"users":[{"id":"eec181a0-5ce1-412e-ad31-26cd6f7786bc","name":"Lucas","email":"lucas@web2midia.com"},{"id":"8c87cb55-2348-4ced-99c9-82b0408602d3","name":"Tiago","email":"tiago@web2midia.com"}]}
+{"users":[{"id":"7114bebf-1003-4675-9018-08f2785795f1","name":"Lucas Henrique","email":"lucas@web2midia.com"},{"id":"f081efe5-8b97-4784-b871-dfde22cc2d9d","name":"Tiago Prado","email":"tiago@web2midia.com"}]}
